@@ -3,4 +3,6 @@
 *.o
 *.orig
 *.rej
+st
+st_dumb
 
